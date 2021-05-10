@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DataCollectionV3-Set"
